@@ -1,6 +1,6 @@
 ## Простой слайдер
 
-### Для запуска приложения <a href="https://antonkulagin.github.io/simple-slider/">нажмите сюда</a></br>
+### Для запуска приложения <a href="https://antonkulagin.github.io/simple-slider/" target="_blank">нажмите сюда</a></br>
 или скачайте репозиторий и запустите index.html файл </br>
 или используйте Live Server в редакторе VS Code </br>
 
