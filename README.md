@@ -1,4 +1,4 @@
-## Простой слайдер
+## Простой слайдер JS
 
 ### Для запуска приложения <a href="https://antonkulagin.github.io/simple-slider/" target="_blank">нажмите сюда</a></br>
 или скачайте репозиторий и запустите index.html файл </br>
